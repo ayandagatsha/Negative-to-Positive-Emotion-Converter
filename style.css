@@ -1,0 +1,10 @@
+#screen {
+    border: 10px double black;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+}
